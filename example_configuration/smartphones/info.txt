@@ -1,0 +1,4 @@
+The configuration files are only examples how a XPrivacy export could look.
+The entries are bound to the UID of the applications.
+These UID vary between devices based on the configuration of the phone and the installation date of the application.
+Therefore, importing the files will most likely not work.

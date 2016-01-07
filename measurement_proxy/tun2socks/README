@@ -1,0 +1,10 @@
+The files in this directory were selectively copied from BadVPN,
+which also includes third-party code from lwIP - A Lightweight TCP/IP stack
+
+URL: https://github.com/ambrop72/badvpn
+Author: Ambroz Bizjak <ambrop7@gmail.com>
+License: BSD 3 (see file COPYING)
+
+URL: http://savannah.nongnu.org/projects/lwip/
+Author: Adam Dunkels <adam@sics.se>
+License: Modified BSD License (see file lwip/COPYING)
