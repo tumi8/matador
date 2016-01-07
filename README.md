@@ -60,7 +60,7 @@ The routers are further used to intercept the network traffic and execute first 
 A controller establishes the network tunnels and network connections and automates the message sending on the mobile phones.
 The controller has to be connected to both routers and the mobile phones.
 
-<img src="illustrations/overall.png" width="600" height="450" hspace="4"/>
+<img src="illustrations/overall.png?raw=true" width="600" height="450" hspace="4"/>
 
 Requirements
 -----------
@@ -110,7 +110,7 @@ The modules can be divided into five groups:
 * an Analysis Module to execute first analysis steps
 * Mobile Phone Modules to control the phones and send messages
 
-<img src="illustrations/classes.png" width="800" height="800" hspace="4"/>
+<img src="illustrations/classes.png?raw=true" width="800" height="800" hspace="4"/>
 
 <a name="wrapper-module"></a>
 **(1) Wrapper Modules**
